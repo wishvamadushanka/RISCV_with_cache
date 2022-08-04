@@ -1,0 +1,11 @@
+*.vvp
+*.bak
+*.bsf
+*.bdf
+*.jdi
+*.qpf
+*.qsf
+db/
+incremental_db/
+output_files/
+simulation/
